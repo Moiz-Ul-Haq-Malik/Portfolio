@@ -1,0 +1,33 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    font-family: var(--font-Playfair), sans-serif;
+    @apply font-primary bg-primary text-white leading-loose;
+  }
+  .h1 {
+    @apply text-[30px] xl:text-[40px] leading-[1.1] font-semibold;
+  }
+
+  .h2 {
+    @apply text-[26px] xl:text-[18px] leading-[1.1] font-semibold;
+  }
+
+  .h3 {
+    @apply text-[10px] xl:text-[14px] leading-[1.1] font-semibold;
+  }
+  
+
+  .text-outline {
+    -webkit-text-stroke: 1px #ffff;
+  }
+  
+  
+  .text-outline-hover {
+    -webkit-text-stroke: 1px #FFD700;
+  }
+  
+}
