@@ -1,1 +1,3 @@
-future changes need to be manually staged, committed, and pushed using git add ., git commit -m "message", and git push commands.
+git init
+git add .
+
