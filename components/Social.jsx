@@ -6,11 +6,8 @@ import {FaGithub, FaLinkedinIn, FaYoutube, FaBehance, FaDribbble} from "react-ic
 
 const socials = [
     
-    { icon: <FaGithub />, path: 'https://github.com/MerajuddinMalik' },
-    { icon: <FaLinkedinIn />, path: 'https://www.linkedin.com/in/merajuddinmalik/' },
-    { icon: <FaYoutube />, path: 'https://www.youtube.com/@zemimaas' },
-    { icon: <FaBehance />, path: 'https://www.behance.net/merajuddin136/projects' },
-    { icon: <FaDribbble />, path: 'https://dribbble.com/MerajUddin/shots' },
+    // { icon: <FaGithub />, path: 'https://github.com/Moiz-ul-haq' },
+    { icon: <FaLinkedinIn />, path: 'https://www.linkedin.com/in/Moiz-ul-haq/' },
 ]
 const Social = ({containerStyles, iconStyles}) => {
   return (

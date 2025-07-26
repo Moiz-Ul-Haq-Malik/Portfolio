@@ -15,7 +15,7 @@ const playfair = Playfair({
 });
 
 export const metadata = {
-  title: "Meraj Uddin Portfolio",
+  title: "Moiz Ul Haq Portfolio",
   description: "",
 };
 

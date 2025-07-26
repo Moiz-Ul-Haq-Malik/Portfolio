@@ -11,29 +11,9 @@ import {
 import {
   FaHtml5,
   FaCss3,
-  FaJs,
-  FaReact,
-  FaNode,
-  FaFigma,
-  FaPhp,
-  FaGithub,
-  FaPython,
-  FaDatabase,
-  FaBootstrap,
   FaElementor,
 } from "react-icons/fa";
 import {
-  SiFlutter,
-  SiDart,
-  SiTypescript,
-  SiMongodb,
-  SiFirebase,
-  SiNextdotjs,
-  SiCsharp,
-  SiLaravel,
-  SiExpress,
-  SiTailwindcss,
-  SiJquery,
   SiWordpress,
   SiShopify,
   SiAdobephotoshop,
@@ -48,22 +28,22 @@ const about = {
   info: [
     {
       feildName: "Name:",
-      feildValue: "Meraj Uddin Malik",
+      feildValue: "Moiz Ul Haq",
     },
 
     {
       feildName: "Experiance:",
-      feildValue: "2+ Years",
+      feildValue: "3+ Years",
     },
 
     {
       feildName: "Phone:",
-      feildValue: "+92-3002953272",
+      feildValue: "+92-3118722335",
     },
 
     {
       feildName: "Email:",
-      feildValue: "merajuddinmalilk136@gmail.com",
+      feildValue: "malikmoez286@gmail.com",
     },
 
     {
@@ -90,22 +70,16 @@ const experience = {
   icon: "/assets/resume/badge.svg",
   title: " My Experiences",
   description:
-    "As a Computer Science student, I’m eager to apply my skills in front-end development and UX design in a professional setting. Known for my quick learning, attention to detail, and enthusiasm, I’m ready to contribute to a dynamic team and grow within the industry while embracing great opportunities.",
+    "As a College student, I’m eager to apply my skills in Wordpress development and Marketing Specialist in a professional setting. Known for my quick learning, attention to detail, and enthusiasm, I’m ready to contribute to a dynamic team and grow within the industry while embracing great opportunities.",
 
   items: [
 
-    {
-      company: "ZEMIMAAS",
-      position: "Shopify | Marketing Specialist.",
-      location: "Karachi",
-      duration: "2023 - 2024",
-    },
 
     {
-      company: "Interact CX",
-      position: "Software Developer ",
+      company: "Sead Digital",
+      position: "Data Entry Officer ",
       location: "Karachi",
-      duration: "2022 - 2023",
+      duration: "Present",
     },
 
     {
@@ -115,12 +89,6 @@ const experience = {
       duration: "2020 - 2022",
     },
 
-    {
-      company: "SOCOL",
-      position: "Data Entry Officer",
-      location: "Karachi",
-      duration: "2019 - 2020",
-    },
   ],
 };
 
@@ -128,63 +96,32 @@ const education = {
   icon: "/assets/resume/cap.svg",
   title: "My Educations",
   description:
-    "Completed comprehensive studies in relevant fields, gaining valuable knowledge, skills, and practical experience for professional and personal growth, enhancing analytical and problem-solving abilities.",
+    "Completed 1st Year studies in CS , gaining valuable knowledge, skills, and practical experience for professional and personal growth, enhancing analytical and problem-solving abilities.",
 
   items: [
-    {
-      institution: "Indus University",
-      degree: "Bachelor of Computer Science",
-      location: "Karachi",
-      duration: "2021 - Present",
-    },
-    {
-      institution: "Indus University",
-      degree: "Certification MERN Stack",
-      location: "Karachi",
-      duration: "4 Weeks - 2024",
-    },
+   
+    
     {
       institution: "Digi9",
       degree: "Certification Graphic Designing",
       location: "Karachi",
       duration: "2021 - 2022",
     },
+    
+  
+  
     {
-      institution: "PIAIC Initiative",
-      degree: "Diploma AI Engineering",
+      institution: "Islamia Govt College",
+      degree: "Intermediate (CS)",
       location: "Karachi",
-      duration: "2018 - 2022",
-    },
-    {
-      institution: "Aptech Learning",
-      degree: "Certification Advanced Excel",
-      location: "Karachi",
-      duration: "2017 - 3 Days Workshop",
-    },
-    {
-      institution: "Aptech Learning",
-      degree: "Diploma Software Engineering",
-      location: "Karachi",
-      duration: "2017 - 2021",
-    },
-    {
-      institution: "MTI College",
-      degree: "Intermediate (FSC)",
-      location: "Karachi",
-      duration: "2014 - 2016",
-    },
-    {
-      institution: "TUELC",
-      degree: "English Language",
-      location: "Karachi",
-      duration: "2014 - 2015",
+      duration: "Present",
     },
 
     {
-      institution: "Dawn Public Secondary School",
+      institution: "Saad Public Secondary School",
       degree: "Matric (SSC)",
       location: "",
-      duration: "2004 - 2014",
+      duration: "2022 - 2024",
     },
   ],
 };
@@ -196,27 +133,7 @@ const skills = {
 
   skillList: [
     { icon: <FaHtml5 />, name: "HTML" },
-    { icon: <FaBootstrap />, name: "Bootstrap" },
     { icon: <FaCss3 />, name: "CSS3" },
-    { icon: <SiTailwindcss />, name: "Tailwind CSS" },
-    { icon: <FaJs />, name: "JavaScript" },
-    { icon: <SiJquery />, name: "Jquery" },
-    { icon: <FaNode />, name: "Node Js" },
-    { icon: <SiExpress />, name: "Express Js" },
-    { icon: <FaReact />, name: "React Js" },
-    { icon: <SiNextdotjs />, name: "Next Js" },
-    { icon: <SiTypescript />, name: "TypeScript" },
-    { icon: <FaGithub />, name: "GitHub" },
-    { icon: <FaPython />, name: "Python" },
-    { icon: <SiDart />, name: "Dart" },
-    { icon: <SiFlutter />, name: "Flutter" },
-    { icon: <SiFirebase />, name: "Firebase" },
-    { icon: <FaPhp />, name: "PHP" },
-    { icon: <SiLaravel />, name: "Laravel" },
-    { icon: <SiCsharp />, name: "C#" },
-    { icon: <FaDatabase />, name: "DataBase" },
-    { icon: <SiMongodb />, name: "MongoDB" },
-    { icon: <FaFigma />, name: "Figma" },
     { icon: <SiAdobephotoshop />, name: "Photoshop" },
     { icon: <SiAdobeillustrator />, name: "Illustrator" },
     { icon: <SiShopify />, name: "Shopify" },

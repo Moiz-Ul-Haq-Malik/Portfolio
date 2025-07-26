@@ -50,13 +50,13 @@ const info = [
   {
     icon: <FaPhoneAlt />,
     title : "Phone",
-    description: "+92-3002953272",
+    description: "+92-3118722335",
   },
 
   {
     icon: <FaEnvelope />,
     title : "Email",
-    description: "merajuddinmalik136@gmail.com",
+    description: "malikmoez286@gmail.com",
   },
 
   {

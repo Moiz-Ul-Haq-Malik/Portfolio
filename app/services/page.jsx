@@ -5,40 +5,20 @@ import { BsArrowDownRight } from "react-icons/bs";
 import Link from "next/link";
 
 const services = [
-  {
-    num: "01",
-    title: "UI/UX Designer",
-    description:
-      "UI/UX Designer with extensive experience in Figma, Adobe Photoshop, and Illustrator. Designed multiple projects, applying skills to craft intuitive and visually engaging user interfaces and experiences.",
-    href: "",
-  },
+  
 
   {
-    num: "02",
+    num: "01",
     title: "Web Designer",
     description:
       "Web Designer with expertise in Figma, Adobe Photoshop, and Illustrator. Designed projects like Markhore Adventure and Venyou4You, using HTML, CSS, jQuery, Bootstrap, and JavaScript for dynamic, responsive websites.",
     href: "",
   },
 
-  {
-    num: "03",
-    title: "Web Developer",
-    description:
-      "Web Developer skilled in C#, PHP, SQL, HTML, CSS, JavaScript, and frameworks like Bootstrap and jQuery. Developed POS Management System, Markhore Adventure, and Venyou4You, with dynamic features and responsive design.",
-    href: "",
-  },
+
 
   {
-    num: "04",
-    title: "Mobile App Developer",
-    description:
-      "Mobile App Developer with experience in Flutter and Dart. Currently working on the PRE FIR Complaint System, using Node.js, Express, and Aqueduct. Designed with Figma and integrating various features.",
-    href: "",
-  },
-
-  {
-    num: "05",
+    num: "02",
     title: "Marketing Specialist",
     description:
       "Marketing Specialist with expertise in digital strategies and campaign management. Utilizes data analytics for performance optimization and growth, proficient in various marketing tools and techniques.",
@@ -46,10 +26,10 @@ const services = [
   },
 
   {
-    num: "05",
+    num: "03",
     title: "Shopify Specialist",
     description:
-      "Shopify Designer with experience designing multiple websites, including ZEMIMAAS. Skilled in creating custom, user-friendly e-commerce solutions with a focus on functionality and aesthetics.",
+      "Shopify Designer with experience designing multiple websites. Skilled in creating user-friendly e-commerce solutions with a focus on functionality and aesthetics.",
     href: "",
   },
 ];

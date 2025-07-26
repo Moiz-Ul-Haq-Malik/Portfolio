@@ -15,11 +15,11 @@ export default function Home() {
 
           <div className="text-center xl:text-left order-2 xl:order-none">
             <span className="text-xl">
-              Software Developer <span className="text-accent">.</span>
+              Wordpress Developer <span className="text-accent">.</span>
             </span>
             <h1 className="h1 mb-6">
               Hello I'm <br />{" "}
-              <span className="text-accent">Meraj Uddin Malik</span>
+              <span className="text-accent">Moiz Ul Haq </span>
             </h1>
             <p className="max-w-[500px] mb-9 text-white/80">
               I'm passionate about creating beautiful digital experiences and
@@ -29,8 +29,8 @@ export default function Home() {
             {/* buttons and socials */}
             <div className="flex flex-col xl:flex-row items-center gap-8">
               <a
-                href="/MerajUddin.pdf" // Path to the PDF file in the public directory
-                download="MerajUddin.pdf" // File name for the download
+                href="#" // Path to the PDF file in the public directory
+                download="#" // File name for the download
                 className="uppercase flex items-center gap-2"
               >
                 <Button variant="outline" size="lg">
