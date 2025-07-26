@@ -2,9 +2,9 @@
 const nextConfig = {
     output: 'export',
     images: {
-      unoptimized: true
+      unoptimized: true,
     },
-    basePath: "/MyProtfolioSite" // 👈 EXACT repo name
+    trailingSlash: true,
   };
   
   export default nextConfig;

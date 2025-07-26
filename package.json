@@ -1,5 +1,5 @@
 {
-  "homepage": "https://MoizUlHaq-03.github.io/MyProtfolioSite",
+  "homepage": "https://MoizUlHaq-03.github.io/PortfolioWebsite",
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
@@ -7,10 +7,7 @@
     "dev": "next dev",
     "build": "next build",
     "export": "next export",
-    "start": "next start",
-    "lint": "next lint",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d out"
+    "start": "next start"
   },
   "dependencies": {
     "@radix-ui/react-dialog": "^1.1.1",
@@ -23,7 +20,6 @@
     "clsx": "^2.1.1",
     "emailjs-com": "^3.2.0",
     "framer-motion": "^11.3.31",
-    "gh-pages": "^6.3.0",
     "lucide-react": "^0.436.0",
     "next": "14.2.7",
     "react": "^18",
