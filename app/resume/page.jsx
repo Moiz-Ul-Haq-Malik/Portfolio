@@ -101,6 +101,13 @@ const education = {
   items: [
 
      {
+      company: "Logicose Software",
+      position: "Lead Generation Officer",
+      location: "Karachi",
+      duration: "2020 - 2022",
+    },
+    
+     {
       institution: "Udemy",
       degree: "WordPress",
       duration: "6 Months",
