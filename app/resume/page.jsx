@@ -99,10 +99,21 @@ const education = {
     "Completed 1st Year studies in CS , gaining valuable knowledge, skills, and practical experience for professional and personal growth, enhancing analytical and problem-solving abilities.",
 
   items: [
+
+     {
+      institution: "Udemy",
+      degree: "WordPress",
+      duration: "6 Months",
+    },
+
+     {
+      institution: "Sylani Mass IT",
+      degree: "Programming Fundamental",
+      duration: "4 Months",
+    },
    
-    
     {
-      institution: "Digi9",
+      institution: "Career Boost Learning Academy",
       degree: "Certification Graphic Designing",
       location: "Karachi",
       duration: "2021 - 2022",
@@ -116,6 +127,8 @@ const education = {
       location: "Karachi",
       duration: "Present",
     },
+
+    
 
     {
       institution: "Saad Public Secondary School",
