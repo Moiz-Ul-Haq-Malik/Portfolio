@@ -100,14 +100,14 @@ const education = {
 
   items: [
 
-     {
-      company: "Logicose Software",
-      position: "Lead Generation Officer",
+       {
+      institution: "Islamia Govt College",
+      degree: "Intermediate (CS)",
       location: "Karachi",
-      duration: "2020 - 2022",
+      duration: "Present",
     },
-    
-     {
+  
+    {
       institution: "Udemy",
       degree: "WordPress",
       duration: "6 Months",
@@ -126,21 +126,10 @@ const education = {
       duration: "2021 - 2022",
     },
     
-  
-  
-    {
-      institution: "Islamia Govt College",
-      degree: "Intermediate (CS)",
-      location: "Karachi",
-      duration: "Present",
-    },
-
-    
-
     {
       institution: "Saad Public Secondary School",
       degree: "Matric (SSC)",
-      location: "",
+      location: "Karachi",
       duration: "2022 - 2024",
     },
   ],
