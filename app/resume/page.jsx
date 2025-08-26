@@ -129,7 +129,7 @@ const education = {
     },
     
     {
-      institution: "Saad Public Secondary School",
+      institution: "Saad Public Sec School",
       degree: "Matric (SSC)",
       location: "Karachi",
       duration: "2022 - 2024",
