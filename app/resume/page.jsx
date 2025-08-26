@@ -120,7 +120,7 @@ const education = {
     },
    
     {
-      institution: "Career Boost Learning Academy",
+      institution: "Career Boost Academy",
       degree: "Certification Graphic Designing",
       location: "Karachi",
       duration: "2021 - 2022",
