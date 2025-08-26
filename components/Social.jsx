@@ -6,7 +6,7 @@ import {FaGithub, FaLinkedinIn, FaYoutube, FaBehance, FaDribbble} from "react-ic
 
 const socials = [
     
-    // { icon: <FaGithub />, path: 'https://github.com/Moiz-ul-haq' },
+    { icon: <FaGithub />, path: 'https://github.com/Moiz-Ul-Haq-Malik' },
     { icon: <FaLinkedinIn />, path: 'https://www.linkedin.com/in/Moiz-ul-haq/' },
 ]
 const Social = ({containerStyles, iconStyles}) => {
