@@ -110,18 +110,20 @@ const education = {
     {
       institution: "Udemy",
       degree: "WordPress",
+      location: "Online",
       duration: "6 Months",
     },
 
      {
       institution: "Sylani Mass IT",
       degree: "Programming Fundamental",
+      location: "Karachi",
       duration: "4 Months",
     },
    
     {
-      institution: "CBLA",
-      degree: "Certification Graphic Designing",
+      institution: "Career Boost Academy",
+      degree: "Graphic Designing",
       location: "Karachi",
       duration: "2021 - 2022",
     },
